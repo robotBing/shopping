@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+body{
+	background-image: url("../img/test/top1.jpg");
+	background-repeat: no-repeat;
+	background-size:50% 120%;
+}
